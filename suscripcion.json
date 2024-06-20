@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Suscripción Común",
+        "precio": 100,
+        "foto": "./asset/img/basico.jpg",
+        "entrenamiento": "Entrenamiento básico de 3 días a la semana, incluye ejercicios de cardio y fuerza."
+    },
+    {
+        "nombre": "Suscripción Star",
+        "precio": 150,
+        "foto": "./asset/img/star.jpg",
+        "entrenamiento": "Entrenamiento intermedio de 5 días a la semana, incluye ejercicios avanzados de cardio, fuerza y flexibilidad."
+    },
+    {
+        "nombre": "Suscripción Premium",
+        "precio": 200,
+        "foto": "./asset/img/premium.jpg",
+        "entrenamiento": "Entrenamiento intensivo de 7 días a la semana, incluye acceso a todas las clases y un plan personalizado."
+    }
+]

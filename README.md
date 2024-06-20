@@ -1,4 +1,4 @@
-# ![Coderhouse](https://www.coderhouse.com/images/coderhouse-logo.png)
+# ![Coderhouse](https://styles.redditmedia.com/t5_5blkvq/styles/communityIcon_t5ji6wuld2z71.jpg?format=pjpg&s=1672be49333cd14749784be8bbc3c968a033d8e0)
 
 # Simulador de Suscripción para Entrenamiento
 
